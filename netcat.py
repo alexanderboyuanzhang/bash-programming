@@ -1,0 +1,3 @@
+import os
+
+os.system('echo -n "10.242.0.12    ECO0000002ST200000010005         LOCK                                               AMENDMENT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       " | netcat "192.168.245.59" 5861')
